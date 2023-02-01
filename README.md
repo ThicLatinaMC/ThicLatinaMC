@@ -23,8 +23,33 @@
      width=4% 
      height=auto 
      alt="instagram badge" />
-     <a href=""><img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/pinterest.png.png" 
+     <a href="https://www.pinterest.co.uk/thiclatina/"><img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/pinterest.png.png" 
      width=4% 
      height=auto 
      alt="pinterest badge" />
 </div>
+             
+## Languages & Tools 🛠
+          
+<p><img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/Java.png" height="40">
+     <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/js.png" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/go.png" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/python.png" height="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40"/>
+          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/768px-Blockbench_icon.png" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/amazonwebservices-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/illustrator-plain.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/microsoftsqlserver-plain.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/photoshop-plain.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/premierepro-plain.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/salesforce-plain.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/vscode.png" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/webstorm-icon-512x512-lmof1hfg.png" height="40"/>
+        </p>
+          
+          
+  <div align="center">
+       
+       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThicLatinaMC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
