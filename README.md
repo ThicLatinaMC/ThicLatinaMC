@@ -28,6 +28,14 @@
      height=auto 
      alt="pinterest badge" />
 </div>
+
+<div align="center">
+
+## Hey! 🤙🏽
+
+Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, blockbench animations, but can also be found doing web development and developing databases & cloud platforms like MicrosoftSQL, Azure, AWS, Salesforce etc. I LOVE travel and try to do it as much as I can, developing all around the world (the aim is to spend more time away from home than at home).
+             
+</div>
              
 ## Languages & Tools 🛠
           
