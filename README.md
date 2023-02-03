@@ -57,13 +57,14 @@ Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, block
         </p>
           
           
-  <div align="center">
+<div align="center">
        
        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThicLatinaMC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
           </div>
+          
 <div align="left">
      
 ## Recent Projects 📽️
-          
-          [Manacube Console](https://github.com/ThicLatinaMC/Manacube-Console-Client)
+
+- [Manacube Console](https://github.com/ThicLatinaMC/Manacube-Console-Client)
