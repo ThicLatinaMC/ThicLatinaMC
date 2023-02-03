@@ -33,7 +33,7 @@
 
 ## Hey! 🤙🏽
 
-Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, blockbench animations, but can also be found doing web development and developing databases & cloud platforms like MicrosoftSQL, Azure, AWS, Salesforce etc. I LOVE travel and try to do it as much as I can, developing all around the world (the aim is to spend more time away from home than at home).
+Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, blockbench animations, but can also be found doing web development, developing databases & cloud platforms like MicrosoftSQL, Azure, AWS, Salesforce etc. I LOVE travel and try to do it as much as I can, developing all around the world (the aim is to spend more time away from home than at home)🌴
              
 </div>
              
@@ -43,8 +43,8 @@ Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, block
      <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/js.png" height="40"/>
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/go.png" height="40"/>
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/python.png" height="40"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="40"/>
-          <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/css3-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/html5-original.svg" height="40"/>
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/768px-Blockbench_icon.png" height="40"/>
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/amazonwebservices-original.svg" height="40"/>
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/illustrator-plain.svg" height="40"/>
@@ -61,3 +61,9 @@ Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, block
        
        
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThicLatinaMC&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+          </div>
+<div>
+     
+## Recent Projects 📽️
+          
+          [Manacube Console](https://github.com/ThicLatinaMC/Manacube-Console-Client)
