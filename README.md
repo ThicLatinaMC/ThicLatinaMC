@@ -27,6 +27,7 @@
      width=4% 
      height=auto 
      alt="pinterest badge" />
+          
 </div>
 
 <div align="center">
@@ -54,6 +55,11 @@ Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, block
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/salesforce-plain.svg" height="40"/>
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/vscode.png" height="40"/>
           <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/webstorm-icon-512x512-lmof1hfg.png" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/azure-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/docker-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/git-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/jenkins-original.svg" height="40"/>
+          <img src="https://github.com/ThicLatinaMC/ThicLatinaMC/blob/main/GitHub-Assets/jira-original.svg" height="40"/>
         </p>
           
           
