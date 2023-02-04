@@ -68,3 +68,4 @@ Im ThicLatina, mostly play minecraft, coding mods, creating texture packs, block
 ## Recent Projects 📽️
 
 - [Manacube Console](https://github.com/ThicLatinaMC/Manacube-Console-Client)
+- [ThicLatina 1.18 Resource Pack](https://github.com/ThicLatinaMC/Thics-Resource-Pack)
